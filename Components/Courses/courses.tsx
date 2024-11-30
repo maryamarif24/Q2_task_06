@@ -185,7 +185,7 @@ export default function Courses() {
                                             </div>
 
                                             <div>
-                                                <h1 className="font-bold text-[24px] leading-[33.6px] pt-[8px] w-[191px] h-[34px] mb-[8px] md:w-[382px] md:h-[34px]">Data Analysis for Beginners</h1>
+                                                <h1 className="font-bold text-[24px] leading-[33.6px] pt-[8px] w-[300px] h-[34px] mb-[8px] md:w-[382px] md:h-[34px]">Data Analysis for Beginners</h1>
                                                 <p className="text-[16px] leading-[24px] pt-[8px] w-[326px] h-[72px] mr-[22px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</p>
                                             </div>
                                         </div>
@@ -204,7 +204,7 @@ export default function Courses() {
                         </div>
                     </div>
 
-                    <div className="md:flex md:mb-[64px] md:justify-between">
+                    <div className="md:flex md:mb-[64px] md:justify-between min-sm:hidden max-md:hidden">
                         <div className="w-[380px] h-[558px] gap-[24px] md:w-[416px] md:h-[534px]">
                             <div className="bg-[#F7F7F7] w-[380px] h-[558px] rounded-[5px] md:w-[416px] md:h-[534px] md:rounded-none">
                                 <div className="min-sm:hidden max-md:hidden">

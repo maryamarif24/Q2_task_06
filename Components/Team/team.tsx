@@ -150,7 +150,7 @@ export default function Team() {
                     </div>
                 </div>
 
-                <div className="w-[380px] h-[723px] gap-[96px] py-[48px] px-[24px] md:flex md:w-[1280px] md:h-[209px] md:gap-[48px] md:px-[0px]">
+                <div className="w-[380px] h-[723px] gap-[96px] py-[48px] px-[24px] md:flex md:w-[1280px] md:h-[209px] md:gap-[48px] md:px-[0px] min-sm:hidden max-md:hidden">
                     <div className="flex-col items-center justify-center md:h-[209px] md:w-[394.67px]">
                         <div className="flex items-center justify-center w-[394.67px] h-[80px]">
                             <Image

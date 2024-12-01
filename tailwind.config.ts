@@ -1,6 +1,7 @@
 import type { Config } from "tailwindcss";
 
 module.exports ={
+	purge: ["./pages/**/*.{js,ts,jsx,tsx}", "./Components/**/*. {js,ts,jsx,tsx}"],
     content: [
 		'./app/**/*.{js,ts,jsx,tsx}', // Include all files in the 'app' directory
 		'./pages/**/*.{js,ts,jsx,tsx}', // Include all files in the 'pages' directory (if still used)

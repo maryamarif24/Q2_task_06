@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { Button } from "../ui/button";
 
+
 export default function Team() {
     return (
         <div className="w-[428px] h-[1075px] py-[48px] mt-[96px] bg-[#F7F7F7] md:w-[1280px] md:h-[895px] md:py-[112px] md:px-[0px] md:pb-[0px]">

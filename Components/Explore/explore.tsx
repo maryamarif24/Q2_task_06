@@ -3,6 +3,8 @@ import Image from "next/image";
 import { Button } from "../ui/button";
 
 
+
+
 export default function Explore() {
     return (
         <div className="pt-[48px] w-[428px] h-[862px] md:w-[1280px] md:h-[1049px] md:py-[112px] md:gap-[80px] md:flex-col md:justify-center md:items-center md:text-center">

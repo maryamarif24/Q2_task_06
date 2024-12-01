@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 
+
 export default function Logo() {
     return (
         <div className="w-[428px] h-[239.34px] gap-[24px] md:w-[1280px] md:h-[228px] md:px-[0px] md:py-[80px] md:bg-[#F7F7F7] md:mt-[70px]">

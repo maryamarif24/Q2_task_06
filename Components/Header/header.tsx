@@ -3,6 +3,7 @@ import Image from "next/image";
 import { Button } from "../ui/button";
 
 
+
 export default function Header () {
     return (
         <div className="w-[1280px] h-[54px]">

@@ -10,6 +10,7 @@ import Test from "@/Components/Testimonials/testimonials";
 import Footer from "@/Components/Footer/footer";
 
 
+
 export default function Home() {
   return (
     <div className="md:w-[1280px] md:h-[7686px]">

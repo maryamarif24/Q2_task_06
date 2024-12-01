@@ -3,6 +3,7 @@ import Image from "next/image";
 import { Button } from "../ui/button";
 
 
+
 export default function Footer() {
     return (
         <div className="w-[428px] h-[1411px] py-[48px] px-[24px] gap-[48px] md:w-[1280px] md:h-[684px] md:p-[80px]">

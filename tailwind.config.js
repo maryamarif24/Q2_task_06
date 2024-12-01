@@ -10,4 +10,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  safelist: ['bg-red-500', 'text-lg', 'hover:bg-blue-700'],
 };
